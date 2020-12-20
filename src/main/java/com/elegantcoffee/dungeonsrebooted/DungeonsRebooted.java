@@ -8,7 +8,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 @Mod(modid = DungeonsRebooted.MODID, version = DungeonsRebooted.VERSION)
 public class DungeonsRebooted
 {
-    public static final String MODID = "examplemod";
+    public static final String MODID = "dungeonr";
     public static final String VERSION = "1.0";
     
     @EventHandler
